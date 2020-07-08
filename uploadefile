@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+    <html lang="ko">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DK company page</title>
+    <link rel="stylesheet" href="css/components.css">
+    <link rel="stylesheet" href="css/icons.css">
+    <link rel="stylesheet" href="css/responsee.css">
+    <link rel="stylesheet" href="owl-carousel/owl.carousel.css">
+    <link rel="stylesheet" href="owl-carousel/owl.theme.css">
+    <!-- CUSTOM STYLE -->
+    <link rel="stylesheet" href="css/template-style.css">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui.min.js"></script>    
+    <script type="text/javascript" src="js/validation.js"></script> 
+    </head>  
+
+    <body class="size-1140">
+    <!-- PREMIUM FEATURES BUTTON -->
+    <a target="_blank" class="hide-s" href="/" style="position:fixed;top:120px;right:-14px;z-index:10;"><img src="img/DK COMPANY 사진/premium-features.png" alt=""></a>
+    <div class="s-12 m-12 l-3 center">
+        <a href="https://www.facebook.com/dkcompany2020" style="position:fixed;top:200px;right:-14px;z-index:10;padding-right: 20px;"><img src="img/DK COMPANY 사진/facebook.png" alt style="width: 64px;"></a>
+        </div>
+        <div class="s-12 m-12 l-3 center">
+        <a href="https://www.youtube.com/channel/UCMBtA9eITd4F8OEczwu1LDw" style="position:fixed;top:280px;right:-14px;z-index:10;padding-right: 20px;"><img src="img/DK COMPANY 사진/youtube.png" alt style="width: 64px;"></a>
+        </div>
+        <div class="s-12 m-12 l-3 center">
+        <a href="https://www.instagram.com/dkcompany2020/" style="position:fixed;top:360px;right:-14px;z-index:10;padding-right: 20px;"><img src="img/DK COMPANY 사진/instagram.png" alt style="width: 64px;"></a> 
+    </div>
+    <!-- HEADER -->
+    <header role="banner">    
+    <!-- Top Navigation -->  
+    <nav class="background-white-hightlight border-ridge" style="background-color: rgb(248, 245, 245);">
+        <div class="line">
+        <div class="s-6 l-2">
+            <a href="DK COMPANY.html" class="logo l-30"><img src="img/DK COMPANY 사진/DK 로고/DK Company 투명(최종).png" style="width: 262.5px; margin-right: 0px; height: 70px;"></a>
+        </div>
+        <div class="top-nav s-6 l-10" style="color: white; padding-top: 18px;">
+            <p class="nav-text"></p>
+            <ul class="right chevron">
+            <li><a href="DK COMPANY.html" class="background-white"><b class="text-center" style="color: black;">DK COMPANY</b></a></li>
+            <li><a href="#" class="background-white-hightlight" style="padding-right: 25px; padding-left: 25px;"><b class="text-center" style="color: black;">부서</b></a>
+            <ul>
+            <li><a href="DK SOUND.html" style="background-color: black; border:3px solid rgb(255, 0, 0);"><b><p class="text-center" style="color: white;">DK SOUND</p></b></a></li>
+            <li><a href="DK STUDIOS.html" style="background-color: black; border:3px solid rgb(32, 229, 255);"><p class="text-center" style="color: white;"><b>DK STUDIOS</b></p></a></li>
+            <li><a href="DK DESIGN.html" style="background-color: black; border:3px solid rgb(255, 234, 49);"><p class="text-center" style="color: white;"><b>DK DESIGN</b></p></a></li>
+            <li><a href="DK MAKE UP.html" style="background-color: black; border:3px solid rgb(129, 80, 170);"><p class="text-center" style="color: white;"><b>DK MAKE UP</b></p></a></li>
+            <li><a href="DK COOK.html" style="background-color: black; border:3px solid rgb(248, 135, 42);"><p class="text-center" style="color: white;"><b>DK COOK</b></p></a></li>
+            <li><a href="DK CHOOM.html" style="background-color: black; border:3px solid rgb(189, 38, 83);"><p class="text-center" style="color: white;"><b>DK CHOOM</b></p></a></li>
+            <li><a href="DK STORE.html" style="background-color: black; border:3px solid rgb(255, 36, 218);"><p class="text-center" style="color: white;"><b>DK STORE</b></p></a></li>
+            <li><a href="DK PROJECT.html" style="background-color: black; border:3px solid rgb(90, 90, 90);"><p class="text-center" style="color: white;"><b>DK PROJECT</b></p></a></li>
+            </ul>
+            <li><a href="#" class="background-white-hightlight"><b class="text-center" style="color: black;">자회사</b></a>
+            <ul>
+            <li><a href="DK 산하기구 조직도.html" class="text-center" style="background-color: black;"><p style="color: white;">산하 기구 조직도</p></a></li>
+            <li><a href="DK 문화예술 동행센터.html" class="text-center" style="background-color: black;"><p class="text-center" style="color: white;">디케이 문화예술 동행센터</p></a></li>
+            <li><a href="#청년.html" class="text-center" style="background-color: black;"><p style="color: white;">#청년</p></a></li>
+            <li><a href="BUSKING AZIT.html" style="background-color: black;"><p class="text-center" style="color: white;"><b>버스킹 아지트</b></p></a></li>
+            <li><a href="DK ENTERTAINMENT.html" style="background-color: black;"><p class="text-center" style="color: white;"><b>DK ENTERTAINMENT</p></a></li>
+            <li><a href="SCREEN UNIVERSE.html" style="background-color: black; border:3px solid blueviolet;"><p class="text-center" style="color: white;"><b>SCREEN UNIVERSE</b></p></a></li>
+            <li><a href="DK TEEN COMPANY.html" style="background-color: black;"><p class="text-center" style="color: white;"><b>DK TEEN COMPANY</b></p></a></li>
+            <li><a href="포천시 청년 ENTERTAINMENT.html" style="background-color: black; border:3px solid rgb(90, 90, 90);"><p class="text-center" style="color: white;"><b>포천시 청년 엔터테인먼트</b></p></a></li>
+            </ul>
+            </li>
+            <li><a href="#" class="background-white-hightlight"><b class="text-center" style="color: black;">Gallery</b></a></li>
+            <li><a href="#" class="background-white-hightlight"><b class="text-center" style="color: black;">로그인</b></a></li>
+            </ul>
+        </div>
+        </div> 
+    </nav>
+    </header>
+    
+    <!-- MAIN -->
+    <main role="main">
+    <!-- Main Carousel -->   
+    <section class="section background-black" style="background-color: rgb(20, 20, 20);">
+        <div class="line">
+        <div class="carousel-fade-transition owl-carousel carousel-main carousel-nav-white carousel-wide-arrows">
+            <div class="item">
+            <div class="s-12 center">
+            <img src="img/DK COMPANY 사진/01-boxed.jpg" alt="">
+            <div class="carousel-content">
+            <div class="padding-2x">
+                <div class="s-12 m-12 l-8">
+                <p class="text-white text-s-size-20 text-m-size-40 text-l-size-60 margin-bottom-40 text-thin text-line-height-1"><img src="img/DK COMPANY 사진/DK 로고/DK Company 투명(최종).png" style="width: 375px;"></p>
+                <p class="text-white text-size-16 margin-bottom-40" style="width: 540px;">SCREEN UNIVERSE는 화면 속 세계관이라는 뜻으로 <b style="color: blueviolet;">화면 속 우주의 다양한 영역에서 각자 하나씩의 빛나는 별이 된다.</b> 라는 의미를 지니고 있습니다. SCREEN UNIVERSE는 다양한 분야에서 활동 중인 크리에이터들을 육성하고 개인 및 단체 채널 관리, 컨텐츠 기획 및 제작, 웹디자인, 공간 지원, 녹음 및 촬영 장비 지원, 홍보 마케팅 등 소속 크리에이터들이 편안한 환경에서 높은 퀄리티의 영상물을 제작 할 수 있도록 지원하고 있습니다. 모여 꾸준한 활동을 하고 있으며 앞으로 더 많은 크리에이터들을 모집할 예정입니다, </p>  
+                </div>                  
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="item">
+            <div class="s-12 center">
+            <img src="img/DK COMPANY 사진/02-boxed.jpg" alt="">
+            <div class="carousel-content">
+            <div class="padding-2x">
+                <div class="s-12 m-12 l-8">
+                <p class="text-white text-s-size-20 text-m-size-40 text-l-size-60 margin-bottom-40 text-thin text-line-height-1"><img src="img/DK COMPANY 사진/DK 로고/DK TEEN Company 투명(최종).png" style="width: 375px;"></p>
+                <p class="text-white text-size-16 margin-bottom-30" style="width: 600px;">버스킹 아지트는 포천의 청소년과 청년 더 나아가 시민들이 함께 문화예술을 즐길 수 있는 이색 복합문화공간입니다. 2018년 7월부터 2018년 12월까지 포천에 거주하는 청소년과 청년들이 셀프 인테리어로 구상, 기획부터 페인트칠까지 스스로 만든 문화 예술 공간입니다. </p>    
+                </div>                  
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>  
+        </div>
+    </section>
+    
+    <!-- Section 2 -->
+    <section style="background-color: rgb(20, 20, 20);" class="section background-black text-center"> 
+        <div class="line">
+        <div class="s-20 m-20 l-20 center">
+            <h2 class="headline text-thin text-s-size-30" style="color: white"><img src="img/DK COMPANY 사진/DK 로고/DK Company 투명(최종).png" style="width: 500px; margin-left: 320px; margin-right: 360px;"></h2>
+            <p class="text-size-20" style="color: white"><b>DK COMPANY</b>의 Full Name은 “<b>DK HOLDING’S COMPANY”</b>로서 다양한 분야의 자회사들을 가지고 있는 주식회사입니다.
+            <div class="text-size-20" style="color: white">DK는 <u>Dream Knock & Dream Key</u>를 의미하며, 틀에 갇혀 규정화된 삶을 살아 가는 청소년과 청년들을 위해서</div>
+            <div class="text-size-20" style="color: white">그들의 꿈과 목적이 있는 삶을 제일 우선순위로 두고 다양한 분야에서 모든 연령층이 4차산업에 맞는 새로운 교육시스템과</div>
+            <div class="text-size-20" style="color: white">청소년, 청년을 위한 축제, 청소년, 청년들의 공간, 청소년, 청년들을 위한 프로젝트 등을 만들어가는</div>
+            <div class="text-size-20" style="color: white">청년 문화예술 벤처기업이며 <u>“TURN YOUR DREAMS INTO REALITY”</u>(꿈을 현실로 바꾸다.)라는 슬로건을 가지고 있습니다.</div></p>
+        </div>
+        </div>  
+    </section>
+
+    <!-- Section 1 -->
+    <section style="background-color: rgb(20, 20, 20); padding-bottom: 30px;" class="section background-black"> 
+        <div class="line">
+        <div class="margin">
+            <div class="s-12 m-12 l-3 margin-m-bottom">
+            <img class="margin-bottom" src="img/DK COMPANY 사진/DK 로고/DK SOUND 투명 빨강(최종).png" alt="" style="width: 211px; margin-top: 13px; margin-left: 24px;">
+            <p>DK SOUND는 DK COMPANY에 속해있는 여러 부서 중 하나로 의정부 예술 공장 내 DK Sound Music Studio로 자리 잡고 있으며 공연, 음악 교육 등 음악과 관련된 분야를 도맡아 진행 중입니다.</p> 
+            <a class="text-more-info text-white-hover" href="DK SOUND.html">자세히 보기</a>                
+            </div>
+            <div class="s-12 m-12 l-3 margin-m-bottom">
+            <img class="margin-bottom" src="img/DK COMPANY 사진/DK 로고/DK STUDIOS 하늘 투명(최종).png" style="margin-top: 15px;">
+            <p>DK STUDIOS는 DK COMPANY에 속해있는 여러 부서중 하나로 크리에이터 육성, 사진 및 영상 촬영, 편집 교육 등 미디어와 관련하여 활동 및 교육을 함께 진행 중입니다.</p> 
+            <a class="text-more-info text-white-hover" href="DK STUDIOS.html">자세히 보기</a>                
+            </div>
+            <div class="s-12 m-12 l-3 margin-m-bottom">
+            <img class="margin-bottom" src="img/DK COMPANY 사진/DK 로고/DK Design 노랑 투명(최종).png" alt="" style="margin-top: px;width: 211px;margin-top: 13px;margin-left: 24px; margin-top: px;">
+            <p>DK DESIGN은 DK COMPANY에 속해있는 여러 부서 중 하나로 각종 현수막, 배너, 포스터 제작 등 판촉물과 캐릭터 제작, 페이스페인팅&헤나를 이용한 부스 운영 등 디자인 분야에서 다양한 활동들을 진행 중입니다.</p> 
+            <a class="text-more-info text-white-hover" href="DK DESIGN.html">자세히 보기</a>                
+            </div>
+            <div class="s-12 m-12 l-3 margin-m-bottom">
+            <img class="margin-bottom" src="img/DK COMPANY 사진/DK 로고/DK Makeup 투명(최종).png" alt="" style="width: 237px; margin-top: 17px; margin-left: 13px;">
+            <p>DK MAKE UP은 DK COMPANY에 속해있는 여러 부서 중 하나로 공연 메이크업, 컨셉 메이크업, 특수 분장 등 메이크업 분야를 다루고 있으며 DK 엔터테인먼트와 청년 엔터테인먼트의 공연 메이크업을 진행 중입니다.</p> 
+            <a class="text-more-info text-white-hover" href="DK MAKE UP.html">자세히 보기</a>                
+            </div>
+            <div class="s-16 m-16 l-4 margin-m-bottom" style="float: right; width: 25%; height: 50;">
+            <img class="margin-bottom" src="img/DK COMPANY 사진/DK 로고/DK Project 그라데이션 투명(최종).png" style="width: 211px; margin-top: 18px; margin-left: 28px;">
+            <p>DK PROJECT는 DK COMPANY에 속해있는 여러 부서 중 하나로 문화예술 축제 및 프로그램 기획 연출, 사업계획서 작성, 지원 공모사업 신청 등을 맡고있는 부서입니다.</p> 
+            <a class="text-more-info text-white-hover" href="DK PROJECT.html">자세히 보기</a>                
+            </div>
+            <div class="s-6 m-6 margin-m-bottom" style="float: left; width: 25%;">
+            <img class="margin-bottom" src="img/DK COMPANY 사진/DK 로고/DK COOK 투명 주황(최종).png" style="width: 188px; margin-left: 26px; margin-bottom: 20px; margin-top: 13px;">
+            <p>DK COOK은 DK COMPANY에 속해있는 여러 부서 중 하나로...</p> 
+            <a class="text-more-info text-white-hover" href="DK COOK.html">자세히 보기</a>                
+            </div>
+            <div class="s-12 m-12 l-3 margin-m-bottom" style="float: left; width: 25%;">
+            <img class="margin-bottom" src="img/DK COMPANY 사진/DK 로고/DK Choom 자주 투명(최종).png" style="width: 214px; margin-top: 15px; margin-left: 24px;">
+            <p>DK CHOOM은 DK COMPANY에 속해있는 여러 부서 중 하나로...</p> 
+            <a class="text-more-info text-white-hover" href="DK CHOOM.html">자세히 보기</a>                
+            </div>
+            <div class="s-12 m-12 l-3 margin-m-bottom" style="float: left; width: 25%;">
+            <img class="margin-bottom" src="img/DK COMPANY 사진/DK 로고/DK Store 투명(최종).png" style="width: 195px; margin-left: 33px; margin-top: 15px;">
+            <p>DK STORE는 DK COMPANY에 속해있는 여러 부서 중 하나로 귀걸이, 팔찌 등 다양한 종류의 액세서리를 제작하고 부스 운영과 쇼핑몰을 통해 제작된 액세서리를 판매하는 부서입니다.</p> 
+            <a class="text-more-info text-white-hover" href="DK STORE.html">자세히 보기</a>                
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+    
+    <!-- Main Footer -->
+    <section style="background-color: black;">
+        <div class="line">
+        <div class="margin">
+            <!-- Collumn 1 -->
+            <div class="s-14 m-14 l-4 margin-m-bottom-2x" style="padding-top: 30px; padding-left: 0px;">
+            <h4 class="text-uppercase text-strong" style="color: white; padding-left: 140px;">정보</h4>
+            <div class="line">
+            <div class="s-1 m-1 l-1 text-center">
+            <i class="icon-placepin text-white text-size-12"></i>
+            </div>
+            <div class="s-11 m-11 l-11">
+            <p>   <a href="https://map.naver.com/v5/search/송우%2B메가프라자/place/18320378?c=14153981.5767691,4555584.7807110,17,0,0,0,dh" class="text-white-hover"> 경기 포천시 소흘읍 솔모루로109번길 13</a></p>
+            </div>
+            </div><div class="line">
+            <div class="s-1 m-1 l-1 text-center">
+            <i class="icon-mail text-white text-size-12"></i>
+            </div>
+            <div class="s-11 m-11 l-11">
+            <p><a href="mailto:dk900208@naver.com" class="text-white-hover"> dk900208@naver.com</a></p>
+            </div>
+            </div><div class="line">
+            <div class="s-1 m-1 l-1 text-center">
+            <i class="icon-sli-screen-smartphone text-white text-size-12"></i>
+            </div>
+            <div class="s-11 m-11 l-11">
+            <p><a href="tel:+8201071928098" class="text-white-hover">010-7192-8098</a></p>
+            </div>
+            </div>
+            <div class="line">
+            <div class="s-1 m-1 l-1 text-center">
+            <i class="icon-sli-social-facebook text-white text-size-12"></i>
+            </div>
+            <div class="s-11 m-11 l-11">
+            <p><a href="https://www.facebook.com/dkcompany2020" class="text-white-hover"><b>Facebook</b></a></p>
+            </div>
+            </div>
+            <div class="line">
+            <div class="s-1 m-1 l-1 text-center">
+            <i class="icon-sli-social-youtube text-white text-size-12"></i>
+            </div>
+            <div class="s-11 m-11 l-11">
+            <p><a href="https://www.youtube.com/channel/UCMBtA9eITd4F8OEczwu1LDw" class="text-white-hover"><b>Youtube</b></a></p>
+            </div>
+            </div>
+            <div class="line">
+            <div class="s-1 m-1 l-1 text-center">
+            <i class="icon-sli-social-instagram text-white text-size-12"></i>
+            </div>
+            <div class="s-11 m-11 l-11 margin-bottom-10">
+            <p><a href="https://www.instagram.com/dkcompany2020" class="text-white-hover"><b>Instagram</b></a></p>
+            </div>
+            </div>
+            </div>
+            
+            <!-- Collumn 2 -->
+            <div class="s-12 m-12 l-4 margin-m-bottom-2x" style="padding-top: 10px;">
+            <h3 class="text-uppercase text-strong" style="color: white; padding-left: 160px; margin-bottom: 0px;"><b>슬로건</b></h3>
+            <p class="text-size-20 text-center" style="width: 370px; color: white;"><b><u>“TURN YOUR DREAMS INTO REALITY”</u> (꿈을 현실로 만들다)</b><p>
+            </div>
+        </div>
+        </div>
+    </section>
+    <hr class="break margin-top-bottom-0" style="border-color: rgba(0, 38, 51, 0.80);">
+    
+    <!-- Bottom Footer -->
+    <section style="color: black;">
+        <div class="top-bar" style="background-color: black;">
+        <div class="line">
+            <div class="s-6 m-6 l-10">
+            <div class="top-bar-contact">
+            <p class="text-size-12" style="color: white;">대표 깁동현: <a href="tel:+8201071928098" style="color: white;">010-7192-8098</a>| 대표 메일: <a class="text-orange-hover" href="mailto:dk900208@naver.com" style="color: white;">dk900208@naver.com</a>| 사업자 번호: 197-86-01777 | 법인 번호: 284411-0112034</p>
+            </div>
+            </div>
+        </div>
+        </div>
+    </section>
+    </footer> 
+    <script type="text/javascript" src="js/responsee.js"></script>
+    <script type="text/javascript" src="owl-carousel/owl.carousel.js"></script>
+    <script type="text/javascript" src="js/template-scripts.js"></script>   
+    </body>
+    </html>
